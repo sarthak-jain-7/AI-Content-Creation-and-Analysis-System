@@ -1,10 +1,5 @@
 # 💬 AI Prompt Chatbot System
 
-**Walchand Institute of Technology, Solapur**  
-**Department of Information Technology**  
-**Course:** Program Elective – V (Prompt Engineering)  
-**Project:** AI Prompt Chatbot
-
 ---
 
 ## 📌 Project Overview
